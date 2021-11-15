@@ -1,6 +1,6 @@
 def try_me(a,b) :
     c=a+b
-    return c,a
+    return c
 
 if __name__ == "__main__":
     a = 2
